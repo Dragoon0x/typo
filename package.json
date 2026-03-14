@@ -1,5 +1,5 @@
 {
-  "name": "typoui",
+  "name": "usetypoui",
   "version": "1.0.0",
   "description": "Kinetic typography engine. 25 text effects: liquid morph, glitch, typewriter, handwriting, gravity, magnetic, wave, scramble, fade, bounce, split, and more. One component. Physics-driven. Cursor-reactive.",
   "main": "dist/index.js",
